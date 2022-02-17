@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = ""
+API_KEY = "past_api_ket_here"
 burl = "http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name: ")
