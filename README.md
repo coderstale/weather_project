@@ -2,4 +2,4 @@
 
 # How to get API Key?
 
-```Go to: https://openweathermap.org/, Create your account, get your api_key, copy it, past it between ""```
+```Go to: https://openweathermap.org/, Create your account, Copy your API KEY, Past it in the code```
